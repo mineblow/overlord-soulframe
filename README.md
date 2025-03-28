@@ -4,7 +4,7 @@
 This repository serves as a formal public marker for an ethical research submission to OpenAI.
 
 **Author:** Ethan  
-**Submission Date:** [Insert Date]
+**Submission Date:** 03/28/2025
 
 ---
 
